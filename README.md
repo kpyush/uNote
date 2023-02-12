@@ -1,6 +1,6 @@
 # E Paper based Sticky note replacement
 
-This repository contains a Zephyr example application. The main purpose of this
+This repository contains uNote application. The main purpose of this
 repository is to serve as a reference on how to structure Zephyr-based
 applications. Some of the features demonstrated in this example are:
 
