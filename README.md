@@ -1,4 +1,4 @@
-# Zephyr Example Application
+# E Paper based Sticky note replacement
 
 This repository contains a Zephyr example application. The main purpose of this
 repository is to serve as a reference on how to structure Zephyr-based
